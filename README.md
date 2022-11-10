@@ -1,4 +1,4 @@
-This website is an E- COMMERCE WEBSITE which is built using HTML 5, CSS, JAVASCRIPT, REACT JS, REDUX, NODE JS, EXPRESS
+This is an E- COMMERCE WEBSITE which is built on using HTML 5, CSS, JAVASCRIPT, REACT JS, REDUX, EXPRESS, and NODE JS.
 
 The following features are:-
   1. LOGIN 
