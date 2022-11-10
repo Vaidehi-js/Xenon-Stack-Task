@@ -18,5 +18,7 @@ It provides the functionality of User's log in and log out and an option of crea
 
 
 Users can add products to the cart as of their choice.
+
+
 The products of the cart then proceeded for the payment gateway.
 (or) User can directly go for buying option.
